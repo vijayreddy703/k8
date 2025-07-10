@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: portfolio
-        image: dhanureddy/devops-pilot:<IMAGE_TAG>
+        image: dhanureddy/devops-pilot:20250710043025
         ports:
         - containerPort: 3000
         resources:
